@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-B.Tech student passionate about Full Stack Development and AI-powered applications.
+I'm a B.Tech student passionate about Full Stack Development, AI-powered applications, and modern web technologies. I enjoy building practical projects that solve real-world problems and continuously improving my development skills.
 
 ## 💻 Tech Stack
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * Node.js
 * Express.js
@@ -16,34 +16,46 @@ B.Tech student passionate about Full Stack Development and AI-powered applicatio
 
 ## 🌟 Featured Projects
 
-### 🤖 RecAI
+### 🤖 [RecAI](https://github.com/pardhu15/RECAI)
 
-AI-powered application focused on intelligent recommendations and smart user experiences.
+AI-powered application focused on intelligent recommendations and smart automation.
 
-### 🔬 SAIOF
+### 🔬 [SAIOF](https://github.com/pardhu15/SAIOF)
 
 Full-stack project built using modern web technologies to solve real-world problems.
 
-### 🌐 Portfolio Website
+### 🌐 [Portfolio Website](https://github.com/pardhu15/portfolio)
 
-Personal portfolio showcasing my skills, projects, and development journey.
+Personal portfolio showcasing my skills and projects.
 
-## 📈 Currently Learning
+**Live Demo:** https://portfolio1-7efa.onrender.com
+
+
+## 📚 Currently Learning
 
 * Advanced JavaScript
 * Backend Development
 * AI Integration
-* Full Stack Applications
+* Scalable Full-Stack Applications
 
 ## 🔗 Links
 
 * GitHub: https://github.com/pardhu15
-* Portfolio: https://portfolio1-7efa.onrender.com
+* Portfolio: YOUR_RENDER_PORTFOLIO_LINK
 
-## 🎯 Goals
+## 🎯 Career Goals
 
 * Become a skilled Full Stack Developer
-* Build impactful AI-powered applications
+* Build impactful AI-driven applications
 * Contribute to innovative software projects
+* Continuously learn and grow as a developer
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardhu15\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardhu15\&layout=compact\&theme=github_dark)
+
+---
 
 ⭐ Always learning, building, and improving.
