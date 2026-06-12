@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Pardhu 👋
 
-<!--
-**pardhu15/pardhu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+B.Tech student passionate about Full Stack Development and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* Firebase
+* Git & GitHub
+
+## 🌟 Featured Projects
+
+### 🤖 RecAI
+
+AI-powered application focused on intelligent recommendations and smart user experiences.
+
+### 🔬 SAIOF
+
+Full-stack project built using modern web technologies to solve real-world problems.
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing my skills, projects, and development journey.
+
+## 📈 Currently Learning
+
+* Advanced JavaScript
+* Backend Development
+* AI Integration
+* Full Stack Applications
+
+## 🔗 Links
+
+* GitHub: https://github.com/pardhu15
+* Portfolio: https://portfolio1-7efa.onrender.com
+
+## 🎯 Goals
+
+* Become a skilled Full Stack Developer
+* Build impactful AI-powered applications
+* Contribute to innovative software projects
+
+⭐ Always learning, building, and improving.
